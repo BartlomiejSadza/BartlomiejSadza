@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Bartlomiej Sadza
-- 👀 I’m interested in ~ belles lettres, football and tenis & also programming of course!
-- 🌱 I’m currently learning ~ Fullstack Development (.js as it's best) 
-- 🎓 I’m studying at AGH University of Science and Technology in Krakow
-- 📫 How to reach me ~ bartlomiej.sadza@icloud.com 
-- ⚡ Fun fact: while I'm coding, I usually sit on a rehabilitation ball (I don't have any flaws). I recommend it!
+👋 Hi, I’m Bartlomiej Sadza
+
+👀 Interests: Belles lettres, football, tennis, and programming of course!
+
+🌱 Currently Learning: Fullstack Development (JavaScript as it's best!)
+
+🎓 Education: Studying at AGH University of Science and Technology in Krakow
+
+📫 Contact: bartlomiej.sadza@icloud.com
+
+⚡ Fun Fact: While coding, I usually sit on a rehabilitation ball (I don’t have any flaws). I recommend it!
