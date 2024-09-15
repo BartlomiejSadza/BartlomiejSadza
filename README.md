@@ -1,10 +1,10 @@
 👋 Hi, I’m Bartlomiej Sadza
 
-👀 Interests: Belles lettres, football, tennis, and programming of course!
+👀 Interests: What I'm not interested in 😅 but among other things Belles letres, and Computer Science ofc!
 
 🌱 Currently Learning: Fullstack Development (JavaScript as it's best!)
 
-🎓 Education: Studying at AGH University of Science and Technology in Krakow
+🎓 Education: Studying "CS and Econometrics" at AGH University of Science and Technology in Krakow
 
 📫 Contact: bartlomiej.sadza@icloud.com
 
