@@ -1,6 +1,6 @@
 👋 Hi, I’m Bartlomiej Sadza
 
-👀 Interests: What I'm not interested in 😅 but among other things Belles letres, and Computer Science ofc!
+👀 Interests: What I'm not interested in 😅 but among other things Belles letres, fast cars, sport and Computer Science ofc!
 
 🌱 Currently Learning: Fullstack Development (JavaScript as it's best!)
 
