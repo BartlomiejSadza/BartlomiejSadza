@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=BartlomiejSadza&color=blue)
+
 👋 Hi, I’m Bartlomiej Sadza
 
 👀 Interests: What I'm not interested in 😅 but among other things Belles letres, fast cars, sport and Computer Science ofc!
