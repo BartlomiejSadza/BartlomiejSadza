@@ -6,6 +6,10 @@
 
 ###
 
+<h3 align="center">Profile views:</h3>
+
+### 
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/BartlomiejSadza/count.svg?"  />
 </div>
@@ -61,7 +65,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BartlomiejSadza&theme=chartreuse-dark&area=true" height="204" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BartlomiejSadza&theme=chartreuse-dark&area=true" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
