@@ -6,16 +6,6 @@
 
 ###
 
-<h3 align="center">Profile views:</h3>
-
-### 
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BartlomiejSadza/count.svg?"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
