@@ -10,18 +10,18 @@
 
 ###
 
-<p align="left">🌱 Currently Learning: Fullstack Development (JavaScript as it's best!)<br><br>🎓 Education: Studying "CS and Econometrics" at AGH University of Science and Technology in Krakow<br><br>📫 Contact: bartlomiej.sadza@icloud.com</p>
+<p align="left">🌱 Currently Learning: mostly GoLang<br><br>🎓 Education: Studying "CS and Econometrics" at AGH University of Science and Technology in Krakow<br><br>📫 Contact: bartlomiej.sadza@icloud.com</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/claude-code.svg" height="40" alt="claude code logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
