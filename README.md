@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Currently Learning: Fullstack Development (JavaScript as it's best!)<br><br>🎓 Education: Studying "CS and Econometrics" at AGH University of Science and Technology in Krakow<br><br>📫 Contact: bartlomiej.sadza@icloud.com</p>
+<p align="left">🌱 Currently Learning: mostly GoLang<br><br>🎓 Education: Studying "CS and Econometrics" at AGH University of Science and Technology in Krakow<br><br>📫 Contact: bartlomiej.sadza@icloud.com</p>
 
 ###
 
@@ -19,11 +19,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -35,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anthropic.svg" height="40" alt="claude code logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/claude-code.svg" height="40" alt="claude code logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -46,19 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h3 align="left">🚀 Featured Projects</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BartlomiejSadza&repo=go-stock-market&theme=chartreuse-dark" alt="go-stock-market repo card" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BartlomiejSadza&repo=TTSAW&theme=chartreuse-dark" alt="TTSAW repo card" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BartlomiejSadza&repo=newPortfolio&theme=chartreuse-dark" alt="newPortfolio repo card" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BartlomiejSadza&repo=AiMed&theme=chartreuse-dark" alt="AiMed repo card" />
 </div>
 
 ###
